@@ -1,0 +1,16 @@
+Thumbs.db
+.DS_Store
+*.swp
+
+/bin/
+artifacts/
+*.dll
+*.exe
+*.o
+f4st.o
+*.log
+*.tmp
+.vscode/
+.idea/
+*.bak
+*~
